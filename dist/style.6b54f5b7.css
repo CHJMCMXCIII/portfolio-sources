@@ -236,6 +236,12 @@ html, body {
 .box__url-dl {
   background-color: #4285f4;
 }
+.box__url-pl {
+  background-color: #fa5252;
+}
+.box__url-e1 {
+  background-color: #fb670e;
+}
 
 @media screen and (min-width: 1024px) {
   #wrapper {
